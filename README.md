@@ -1,4 +1,4 @@
-#Ejerciciosjava Tema 3
+#Ejercicioslinux Tema 3
 
 ##1. Show all the jpg pictures in the current directory.
 
